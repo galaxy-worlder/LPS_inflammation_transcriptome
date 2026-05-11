@@ -1,0 +1,7 @@
+"clinical_group","sepsis_subgroup","n_samples"
+"Acute_sepsis","Sepsis",20
+"Acute_sepsis","Septic_shock",19
+"Follow_up","Sepsis_follow_up",4
+"Follow_up","Shock_follow_up",10
+"Healthy","Healthy",40
+"Infection","Infection",12

@@ -1,0 +1,4 @@
+"accession","title","platform","n_features","n_samples","metadata_file","eset_file"
+"GSE193336","Bulk RNA-seq on unstimulated and LPS-stimulated human macrophages","GPL24676",0,8,"data/metadata/GSE193336_metadata.csv","data/raw/GSE193336_eset.rds"
+"GSE5504","human peripheral blood derived monocytes, LPS stimulation time-series","GPL570",54675,10,"data/metadata/GSE5504_metadata.csv","data/raw/GSE5504_eset.rds"
+"GSE154918","RNAseq analysis of blood from sepsis patients and healthy controls","GPL20301",0,105,"data/metadata/GSE154918_metadata.csv","data/raw/GSE154918_eset.rds"

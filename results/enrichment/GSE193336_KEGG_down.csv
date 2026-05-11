@@ -1,0 +1,2 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"Metabolism","Lipid metabolism","hsa00062","Fatty acid elongation","13/1097","25/6222",0.52,2.94935278030994,4.5181035232398,9.44958237155782e-05,0.0325065633581589,0.0298407864364984,"ACAA2/ACOT2/ACOT7/THEM4/ACOT4/HACD2/HADH/MECR/HACD3/PPT1/ACOT1/HACD1/TECR",13
