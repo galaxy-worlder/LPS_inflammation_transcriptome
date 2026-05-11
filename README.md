@@ -1,7 +1,3 @@
-下面这版可以直接作为 README.md 初稿使用，后续你把 GitHub 仓库地址、R 版本、脚本文件名和结果文件名按实际情况微调即可。
-
-
-
 \# LPS–Sepsis Transcriptome Concordance Analysis
 
 
